@@ -45,7 +45,7 @@ We would like to thank our faculty advisor, Dr. Hunter Lenihan, for providing th
 
 ---
 
-## Key Datasets, Tools & Literature
+## Key Datasets and Tools
 
 **Tools:** R, Quarto
 
