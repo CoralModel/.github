@@ -1,4 +1,5 @@
 # Modeling Coral Population Dynamics to Better Conserve, Manage, & Restore Coral Reef Ecosystems
+<img width="1500" height="505" alt="image" src="https://github.com/user-attachments/assets/d4a76678-d8d6-45a1-ad5c-dc7dec447a91" />
 
 **A MEDS Capstone Project | Bren School of Environmental Science & Management, UCSB**
 
