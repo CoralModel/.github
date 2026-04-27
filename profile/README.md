@@ -2,8 +2,8 @@
 
 **A MEDS Capstone Project | Bren School of Environmental Science & Management, UCSB**
 
-**[View project on the Bren Projects Website](https://bren.ucsb.edu/projects/modeling-coral-population-dynamics-better-conserve-manage-and-restore-coral-reef)
-**
+[View project on the Bren Projects Website](https://bren.ucsb.edu/projects/modeling-coral-population-dynamics-better-conserve-manage-and-restore-coral-reef)
+
 ---
 
 ## Abstract
