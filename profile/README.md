@@ -40,7 +40,7 @@ This is a capstone project for the [Master of Environmental Data Science](https:
 
 ## Acknowledgements
 
-[We would like to thank our faculty advisor, Dr. Hunter Lenihan, for providing the foundational coral demography data and for his invaluable ecological expertise throughout this project. We also thank the Mo’orea Coral Reef (MCR) LTER for their long-term data collection efforts, as well as additional support from the Marine Science Institute at UC Santa Barbara. Finally, thank you to the Bren School of Environmental Science and Management for providing the platform and resources to best support this capstone project.]
+We would like to thank our faculty advisor, Dr. Hunter Lenihan, for providing the foundational coral demography data and for his invaluable ecological expertise throughout this project. We also thank the Mo’orea Coral Reef (MCR) LTER for their long-term data collection efforts, as well as additional support from the Marine Science Institute at UC Santa Barbara. Finally, thank you to the Bren School of Environmental Science and Management for providing the platform and resources to best support this capstone project.
 
 ---
 
