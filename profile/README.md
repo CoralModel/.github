@@ -31,7 +31,7 @@ This is a capstone project for the [Master of Environmental Data Science](https:
 **Students:**
 - [Joaquin Sandoval](https://github.com/sandovaljoaquin)
 - [Kylie Newcomer](https://github.com/kylienewcomer)
-- [Vedika Shirtekar](https://github.com/vrs)
+- [Vedika Shirtekar](https://github.com/vedikaS-byte)
 
 **Client:** Dr. Hunter Lenihan, UCSB Bren School of Environmental Science and Management, Mo'orea Coral Reef Long-Term Ecological Research
 
