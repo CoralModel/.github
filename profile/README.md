@@ -33,7 +33,7 @@ This is a capstone project for the [Master of Environmental Data Science](https:
 - [Kylie Newcomer](https://github.com/kylienewcomer)
 - Vedika Shirtekar ([@vrs](https://github.com/vrs))
 
-**Client:** Dr. Hunter Lenihan, UCSB Bren School of Environmental Science and Management], [Mo'orea Coral Reef Long-Term Ecological Research
+**Client:** Dr. Hunter Lenihan, UCSB Bren School of Environmental Science and Management, Mo'orea Coral Reef Long-Term Ecological Research
 
 **Advisor:** Dr. Hunter Lenihan, UCSB Bren School of Environmental Science and Management
 
@@ -47,6 +47,6 @@ We would like to thank our faculty advisor, Dr. Hunter Lenihan, for providing th
 
 ## Key Datasets, Tools & Literature
 
-**Tools:** R, Quarto, 
+**Tools:** R, Quarto
 
 **Key datasets:** Mo'orea reef (coral demography observations) survey data (2013-2023)
