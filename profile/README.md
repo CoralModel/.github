@@ -1,7 +1,7 @@
 # Modeling Coral Population Dynamics to Better Conserve, Manage, & Restore Coral Reef Ecosystems
 **A MEDS Capstone Project | Bren School of Environmental Science & Management, UCSB**
 
-<img width="1600" height="896" alt="A sophisticated logo for a master of environmental data science capstone project, featuring a stylized coral reef motif rendered in a clean, modern, and scientific aesthetic  The color palette should incorporate oceanic blues and greens, wi" src="https://github.com/user-attachments/assets/5424b44f-d6ee-4649-87ad-cd3ce9f319a6" />
+<img width="1600" height="896" alt="Coral" src="https://github.com/user-attachments/assets/1b739f13-520f-4026-8d29-5509d3f3f50d" />
 
 
 [View project on the Bren Projects Website](https://bren.ucsb.edu/projects/modeling-coral-population-dynamics-better-conserve-manage-and-restore-coral-reef)
