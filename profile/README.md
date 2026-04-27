@@ -21,7 +21,6 @@ This is a capstone project for the [Master of Environmental Data Science](https:
 | [eds-coral-data-storage-management](https://github.com/CoralModel/eds-coral-data-storage-management) | Data utilized for the analysis, including metadata, documentation, and processing scripts |
 | [eds-coral-glmms](https://github.com/CoralModel/eds-coral-glmms) | Generalized linear mixed models for coral recruitment and survival analysis |
 | [eds-coral-figs-storage](https://github.com/CoralModel/eds-coral-figs-storage) | Figures generated for the capstone project, including animated and combined demography plots |
-| [eds-coral-demography-data-entry](https://github.com/CoralModel/eds-coral-demography-data-entry) | Data entry script for standardizing coral demography observations and producing a cleaned long-format dataset|
 
 ---
 
@@ -32,9 +31,9 @@ This is a capstone project for the [Master of Environmental Data Science](https:
 - [Kylie Newcomer](https://github.com/kylienewcomer)
 - Vedika Shirtekar ([@vrs](https://github.com/vrs))
 
-**Client:** [Dr. Hunter Lenihan, UCSB Bren School of Environmental Science and Management], [Mo'orea Coral Reef Long-Term Ecological Research]
+**Client:** Dr. Hunter Lenihan, UCSB Bren School of Environmental Science and Management], [Mo'orea Coral Reef Long-Term Ecological Research
 
-**Advisor:** [Dr. Hunter Lenihan, UCSB Bren School of Environmental Science and Management]
+**Advisor:** Dr. Hunter Lenihan, UCSB Bren School of Environmental Science and Management
 
 ---
 
