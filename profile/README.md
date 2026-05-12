@@ -3,8 +3,8 @@
 **A MEDS Capstone Project | Bren School of Environmental Science & Management, UCSB**
 
 <figure>
-  <img alt="Coral reef in Mo'orea with two surgeonfish swimming over branching and mounding corals"
-       src="https://github.com/user-attachments/assets/51cb8712-351e-463c-a9e2-df85d89d3cd2" />
+  <img src="https://github.com/user-attachments/assets/752db3a3-4e58-4b32-9d8b-07e20d439c6f"
+       width="5472" height="3648"
   <figcaption>Photo by Pierrick Harnay</figcaption>
 </figure>
 
