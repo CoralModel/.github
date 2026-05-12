@@ -1,10 +1,14 @@
 # Modeling Coral Population Dynamics to Better Conserve, Manage, & Restore Coral Reef Ecosystems
+
 **A MEDS Capstone Project | Bren School of Environmental Science & Management, UCSB**
 
-<img width="1600" height="896" alt="Coral" src="https://github.com/user-attachments/assets/1b739f13-520f-4026-8d29-5509d3f3f50d" />
+<figure>
+  <img alt="Coral reef in Mo'orea with two surgeonfish swimming over branching and mounding corals"
+       src="https://github.com/user-attachments/assets/51cb8712-351e-463c-a9e2-df85d89d3cd2" />
+  <figcaption>Photo by Pierrick Harnay</figcaption>
+</figure>
 
-
-[View project on the Bren Projects Website](https://bren.ucsb.edu/projects/modeling-coral-population-dynamics-better-conserve-manage-and-restore-coral-reef)
+[View project on the Bren School website](https://bren.ucsb.edu/projects/modeling-coral-population-dynamics-better-conserve-manage-and-restore-coral-reef)
 
 ---
 
@@ -51,4 +55,4 @@ We would like to thank our faculty advisor, Dr. Hunter Lenihan, for providing th
 
 **Tools:** R, Quarto
 
-**Key datasets:** Mo'orea reef (coral demography observations) survey data (2013-2023)
+**Key datasets:** Mo'orea Coral Reef LTER (coral demography observations) survey data (2013-2023)
